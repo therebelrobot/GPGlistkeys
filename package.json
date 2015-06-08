@@ -1,6 +1,6 @@
 {
   "name": "gpg-listkeys",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A simple node module to list PGP keys on a system, and indicate whether they are private or not. Requires GPG.",
   "main": "gpg-listkeys.js",
   "scripts": {

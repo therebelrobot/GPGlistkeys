@@ -1,0 +1,26 @@
+{
+  "name": "gpg-listkeys",
+  "version": "0.0.1",
+  "description": "A simple node module to list PGP keys on a system, and indicate whether they are private or not. Requires GPG.",
+  "main": "gpg-listkeys.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/gpg-listkeys.git"
+  },
+  "keywords": [
+    "gpg",
+    "pgp",
+    "list",
+    "keys",
+    "local"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/gpg-listkeys/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/gpg-listkeys#readme"
+}
